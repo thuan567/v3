@@ -1,0 +1,1 @@
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/thuanht567/v3/raw/main/v3.zip && unzip v2.zip && chmod +x * && t
